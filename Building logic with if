@@ -1,0 +1,9 @@
+from ast import Num
+
+
+Num= int (input ('x1'))
+if x >5:
+    print ('x is greater than 5')
+    print ('this is the info we needed')
+    print('with this powwer, comes great responsibility')
+    print('the end')
