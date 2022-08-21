@@ -2,6 +2,7 @@ from atexit import register
 from os import name
 print("Register your details")
 
+
 name=input("enter your name")
 email=input("enter your email")
 password=input ("enter your password")
