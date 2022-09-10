@@ -1,0 +1,12 @@
+mobile->Vivo
+price->25000
+expiry->2023
+feature->kuch khas nhi
+mobile->Vivo
+price->25000
+expiry->2023
+feature->kuch khas nhi
+mobile->VivoT15G
+price->25000
+expiry->2023
+feature->kuch khas nhi
