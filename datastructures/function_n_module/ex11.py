@@ -10,4 +10,4 @@ def saveinfo(file='info.txt',**kwargs):
         
             
 saveinfo(mobile='VivoT15G', price=25000,
-            expiry='2023', feature='kuch khas nhi')
+            expiry='2023', feature='Android 12 version ')
