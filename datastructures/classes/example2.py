@@ -10,6 +10,10 @@ class Employee:
         self.desgination= desig
         self. department= dept    
         self. salary= salary
+        self. skills = skills
+        
+        def do_task(self,task):
+            
 
 
 def info(self):
