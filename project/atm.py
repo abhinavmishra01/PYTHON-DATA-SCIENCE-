@@ -1,3 +1,4 @@
+from re import S
 import time
 print("please insert your card")
 
@@ -16,8 +17,8 @@ if pin==pasword:
           2== withdraw balance
           3== deposit balance
           4== exit
-          === 
-           )
+          === )
+           
             
     try:
      option=int(input("lease enter your choise"))
@@ -37,9 +38,9 @@ if pin==pasword:
          print(f"{withdraw_amount}is debited from your account")
          print(f"your updated balance is {balance}")
          
-         if opton==3:
+         if option==3:
            
-           deposit_amount=intput("please enter deposit_amount")
+           deposit_amount=input("please enter deposit_amount")
          
          
          balance=balance+deposit_amount
@@ -49,4 +50,4 @@ if pin==pasword:
          
          
          if option==4:
-          break 
+         break

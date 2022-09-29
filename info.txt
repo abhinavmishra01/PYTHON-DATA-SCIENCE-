@@ -1,0 +1,4 @@
+mobile->VivoT15G
+price->25000
+expiry->2023
+feature->Android 12 version 

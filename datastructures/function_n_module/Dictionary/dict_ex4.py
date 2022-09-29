@@ -14,10 +14,10 @@ emps= {
            'salary': 19999,
            'designation': 'Assitant 2',
            ' manager': 'ravi prakash'
-       },
-           'bhanu':{
+    },
+           'bhanu':
            'name':
-       }
+     }
          
        }    
   

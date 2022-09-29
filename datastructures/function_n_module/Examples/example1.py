@@ -9,7 +9,11 @@ def area ():
     def prime():
         pass 
     
-    # calling function use
-    area()
+    # calling function /use
+    # area()
 
-    
+    ans = len('hello') + len('students')
+print (ans)
+
+# ans = area() + area()
+# print(ans)
