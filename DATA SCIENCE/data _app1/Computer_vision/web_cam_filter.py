@@ -17,4 +17,4 @@ def start_camera(cam_id=0):
     cv2.destroyAllWindows() # close all windows
 
 # starting of the line
-start_camera(1)
+start_camera(0)

@@ -12,5 +12,5 @@ def start_camera(cam_id=0):
 
 # double underscore __name__ is a special variable
 if __name__ == '__main__':  
-    start_camera(1) # 0 is the default camera
-    start_camera(1) # 0 is the default camera
+    start_camera(0) # 0 is the default camera
+    

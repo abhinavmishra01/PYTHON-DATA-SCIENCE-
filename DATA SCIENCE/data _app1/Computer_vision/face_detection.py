@@ -1,4 +1,4 @@
-import cv2
+import cv2 
 import mediapipe as mp
 
 mp_face_detection = mp.solutions.face_detection
@@ -26,4 +26,4 @@ def start_camera(cam_id=0):
         cv2.destroyAllWindows()
 
 if __name__ == '__main__':
-    start_camera(1)
+    start_camera(0)
